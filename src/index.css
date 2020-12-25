@@ -11,5 +11,5 @@
 }
 
 .app g path:nth-child(odd) {
-  filter: brightness(0.5) !important;
+  /* filter: brightness(0.5) !important; */
 }
